@@ -4,7 +4,6 @@
  * vishalswamiv@gmail.com
  * www.androhive.tech
  */
-
 package com.example.gifsplash.androhive;
 
 import android.content.Intent;
