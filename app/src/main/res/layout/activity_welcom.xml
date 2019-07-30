@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2019.
+  ~ Created By Vishal Swami(vishaldroidx)
+  ~ vishalswamiv@gmail.com
+  ~ www.androhive.tech
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_gravity="center"
+    android:layout_height="300dp"
+    android:orientation="vertical"
+    tools:context=".WelcomActivity">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="316dp"
+        android:layout_marginTop="40dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:text="First Actvity After Splash Screen"
+        android:textSize="30dp" />
+
+    <TextView
+    android:id="@+id/textViewn"
+    android:layout_width="wrap_content"
+    android:layout_height="316dp"
+    android:layout_marginTop="40dp"
+    android:layout_weight="1"
+        android:layout_gravity="center"
+    android:gravity="center"
+    android:text="check Out More tutorials Click this link"
+    android:textSize="20dp" />
+
+
+
+    <TextView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/txtCredits"
+        android:autoLink="web"
+        android:id="@+id/infoTxtCredits"
+        android:layout_centerInParent="true"
+        android:textSize="30dp"
+        android:layout_gravity="center"
+        android:linksClickable="true"></TextView>
+
+
+</LinearLayout>
+

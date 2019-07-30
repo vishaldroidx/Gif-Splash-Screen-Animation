@@ -1,0 +1,11 @@
+<!--
+  ~ Copyright (c) 2019.
+  ~ Created By Vishal Swami(vishaldroidx)
+  ~ vishalswamiv@gmail.com
+  ~ www.androhive.tech
+  -->
+
+<resources>
+    <string name="app_name">SplashGIFAnimated</string>
+    <string name="txtCredits"><a href="http://www.androhive.tech">www.Androhive.tech</a></string>
+</resources>
